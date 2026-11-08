@@ -1,0 +1,10 @@
+seg 5.00
+ter 7.50
+terc 4.50
+terca 2.00
+seguquinta 4.50
+quinta 12.00
+segquinta 4.50
+quinta 3.00
+segunda 4.50
+terca 2.00
