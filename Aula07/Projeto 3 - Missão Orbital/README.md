@@ -158,7 +158,3 @@ Desenvolver, testar e explicar um programa em linguagem C que combine estruturas
 - **Condicionais** → classificar o desempenho e reconhecer a pontuação máxima.
 
 O projeto também reforça o uso de contadores e acumuladores, o planejamento da solução antes de programar e a capacidade de testar diferentes caminhos de execução e explicar cada estrutura utilizada.
-
----
-
-> **Créditos:** projeto original proposto pelo Professor Vinícius Alves e adaptado para utilização em aula.
